@@ -11,11 +11,11 @@ https://www.kaggle.com/datasets/mikahama/movie-title-puns)
 (2) 유사 발음(Similar Sound) 이용  
 (3) 유사 음절(Similar Syllable) 이용  
 ### 🍳 포함된 파일
-#### T5_preprocessing.ipynb
+#### T5_preprocessing.ipynb / T5_preprocessing.py
 - 유머를 말장난의 유형에 따라 분류하기 위한 코드
 - 각 유형의 '본래 영화 제목 - 유머러스하게 바뀐 영화 제목'을 선정
 - 이렇게 선정된 예시를 '좋은' 훈련 샘플로 간주
-#### Few_shot_learning_with_T5.ipynb
+#### Few_shot_learning_with_T5.ipynb / Few_shot_learning_with_T5.py
 - 선정된 퓨샷 예시를 t5모델에 넣고 훈련
 - 결과 도출
 ### 🍳 유머 평가
